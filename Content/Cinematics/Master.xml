@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmeml version="4">
+	<project>
+		<name>MasterProject</name>
+		<children>
+			<clip id="masterclip-1">
+				<masterclipid>masterclip-1</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>240</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>240</out>
+				<name>Shot_01</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-1">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_01</name>
+								<enabled>TRUE</enabled>
+								<duration>240</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>240</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>Shot_01.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_01.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>240</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_0][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>480</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>480</out>
+				<name>Shot_06</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_06</name>
+								<enabled>TRUE</enabled>
+								<duration>480</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>480</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>Shot_06.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_06.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>480</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_6][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-3">
+				<masterclipid>masterclip-3</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>420</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>420</out>
+				<name>Shot_02</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_02</name>
+								<enabled>TRUE</enabled>
+								<duration>420</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>420</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-3">
+									<name>Shot_02.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_02.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>420</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_1][UE4ShotStartOffset=56][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-4">
+				<masterclipid>masterclip-4</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>284</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>284</out>
+				<name>Shot_04</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_04</name>
+								<enabled>TRUE</enabled>
+								<duration>284</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>284</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-4">
+									<name>Shot_04.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_04.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>284</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_4][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-5">
+				<masterclipid>masterclip-5</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>423</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>423</out>
+				<name>Shot_05</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_05</name>
+								<enabled>TRUE</enabled>
+								<duration>423</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>423</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-5">
+									<name>Shot_05.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_05.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>423</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_5][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-6">
+				<masterclipid>masterclip-6</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>498</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>1</in>
+				<out>498</out>
+				<name>Shot_03</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-6">
+								<masterclipid>masterclip-6</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_03</name>
+								<enabled>TRUE</enabled>
+								<duration>498</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>1</in>
+								<out>498</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-6">
+									<name>Shot_03.avi</name>
+									<pathurl>file://localhost/E%3a/MiniGames/Tutorials/Unreal4/IceLands/Content/Cinematics/Shot_03.avi</pathurl>
+									<rate>
+										<timebase>60</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>498</duration>
+									<timecode>
+										<rate>
+											<timebase>60</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>60</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1280</width>
+												<height>720</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Cinematics/Master.Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_2][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<sequence id="sequence-1">
+				<duration>2345</duration>
+				<rate>
+					<timebase>60</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<name>Master</name>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<width>1280</width>
+								<height>720</height>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="clipitem-7">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_01</name>
+								<enabled>TRUE</enabled>
+								<duration>240</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>240</end>
+								<in>1</in>
+								<out>240</out>
+								<file id="file-1" />
+							</clipitem>
+							<clipitem id="clipitem-8">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_06</name>
+								<enabled>TRUE</enabled>
+								<duration>480</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>1367</start>
+								<end>1847</end>
+								<in>1</in>
+								<out>480</out>
+								<file id="file-2" />
+							</clipitem>
+							<clipitem id="clipitem-9">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_02</name>
+								<enabled>TRUE</enabled>
+								<duration>420</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>240</start>
+								<end>660</end>
+								<in>1</in>
+								<out>420</out>
+								<file id="file-3" />
+							</clipitem>
+							<clipitem id="clipitem-10">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_04</name>
+								<enabled>TRUE</enabled>
+								<duration>284</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>660</start>
+								<end>944</end>
+								<in>1</in>
+								<out>284</out>
+								<file id="file-4" />
+							</clipitem>
+							<clipitem id="clipitem-11">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_05</name>
+								<enabled>TRUE</enabled>
+								<duration>423</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>944</start>
+								<end>1367</end>
+								<in>1</in>
+								<out>423</out>
+								<file id="file-5" />
+							</clipitem>
+							<clipitem id="clipitem-12">
+								<masterclipid>masterclip-6</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_03</name>
+								<enabled>TRUE</enabled>
+								<duration>498</duration>
+								<rate>
+									<timebase>60</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>1847</start>
+								<end>2345</end>
+								<in>1</in>
+								<out>498</out>
+								<file id="file-6" />
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</video>
+					<audio>
+						<numOutputChannels>1</numOutputChannels>
+						<format>
+							<samplecharacteristics>
+								<depth>16</depth>
+								<samplerate>44100</samplerate>
+							</samplecharacteristics>
+						</format>
+						<outputs>
+							<group>
+								<index>1</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>1</index>
+								</channel>
+							</group>
+						</outputs>
+					</audio>
+				</media>
+				<timecode>
+					<rate>
+						<timebase>60</timebase>
+						<ntsc>FALSE</ntsc>
+					</rate>
+					<string>00:00:00:00</string>
+					<frame>0</frame>
+				</timecode>
+			</sequence>
+		</children>
+	</project>
+</xmeml>
